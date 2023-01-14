@@ -21,10 +21,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
 
-<br />
 
-<div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorGolovihin&theme=zenburn"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IgorGolovihin&theme=zenburn"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IgorGolovihin&theme=zenburn"/>
-</div>
